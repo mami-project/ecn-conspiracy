@@ -30,3 +30,7 @@ template:
     - reverseUnionTCPFlags
     - lastSynTcpFlags
     - reverseLastSynTcpFlags
+    - minimumTTL
+    - reverseMinimumTTL
+    - maximumTTL
+    - reverseMaximumTTL
